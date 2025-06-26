@@ -72,6 +72,14 @@ const Footer = () => {
                   Физиотерапия
                 </a>
               </li>
+              <li>
+                <a
+                  href="/sitemap"
+                  className="hover:text-emerald-400 transition-colors"
+                >
+                  Карта сайта
+                </a>
+              </li>
             </ul>
           </div>
 

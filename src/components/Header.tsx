@@ -50,6 +50,12 @@ const Header = () => {
             >
               Контакты
             </a>
+            <a
+              href="/sitemap"
+              className="text-gray-700 hover:text-emerald-600 transition-colors"
+            >
+              Карта сайта
+            </a>
             <button className="bg-emerald-600 text-white px-6 py-2 rounded-lg hover:bg-emerald-700 transition-colors">
               Забронировать
             </button>
