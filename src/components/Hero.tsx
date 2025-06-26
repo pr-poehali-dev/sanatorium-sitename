@@ -3,8 +3,9 @@ import Icon from "@/components/ui/icon";
 
 const Hero = () => {
   return (
-    <section className="bg-gradient-to-br from-emerald-50 to-green-100 py-20">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <section className="relative bg-gradient-to-br from-emerald-50 to-green-100 py-20 overflow-hidden">
+      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=1920&h=1080&fit=crop')] bg-cover bg-center opacity-10"></div>
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6">
             Ваше здоровье —{" "}

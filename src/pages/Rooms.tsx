@@ -9,7 +9,7 @@ const Rooms = () => {
       type: "Стандарт",
       price: "3 500",
       image:
-        "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
       features: [
         "Одноместное размещение",
         "Санузел в номере",
@@ -22,7 +22,7 @@ const Rooms = () => {
       type: "Комфорт",
       price: "4 500",
       image:
-        "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400&h=300&fit=crop",
       features: [
         "Двухместное размещение",
         "Улучшенная мебель",
@@ -35,7 +35,7 @@ const Rooms = () => {
       type: "Люкс",
       price: "6 500",
       image:
-        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400&h=300&fit=crop",
       features: [
         "Двухкомнатный номер",
         "Джакузи",

@@ -5,37 +5,37 @@ import Footer from "@/components/Footer";
 const Gallery = () => {
   const galleryImages = [
     {
-      src: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=600&h=400&fit=crop",
+      src: "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&h=400&fit=crop",
       alt: "Главное здание санатория",
       category: "Территория",
     },
     {
-      src: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop",
+      src: "https://images.unsplash.com/photo-1594824720764-7170fe015e90?w=600&h=400&fit=crop",
       alt: "Бассейн",
       category: "Процедуры",
     },
     {
-      src: "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=600&h=400&fit=crop",
+      src: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=400&fit=crop",
       alt: "Номер люкс",
       category: "Номера",
     },
     {
-      src: "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=600&h=400&fit=crop",
+      src: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
       alt: "Спа-процедуры",
       category: "Процедуры",
     },
     {
-      src: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=600&h=400&fit=crop",
+      src: "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=600&h=400&fit=crop",
       alt: "Номер стандарт",
       category: "Номера",
     },
     {
-      src: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+      src: "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=600&h=400&fit=crop",
       alt: "Парк санатория",
       category: "Территория",
     },
     {
-      src: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop",
+      src: "https://images.unsplash.com/photo-1594824720764-7170fe015e90?w=600&h=400&fit=crop",
       alt: "Гидромассаж",
       category: "Процедуры",
     },
@@ -45,7 +45,7 @@ const Gallery = () => {
       category: "Питание",
     },
     {
-      src: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600&h=400&fit=crop",
+      src: "https://images.unsplash.com/photo-1564501204317-b4bba42a1a5b?w=600&h=400&fit=crop",
       alt: "Стандартный номер",
       category: "Номера",
     },

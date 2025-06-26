@@ -44,7 +44,7 @@ const About = () => {
 
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=600&h=400&fit=crop"
+                src="https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&h=400&fit=crop"
                 alt="Главное здание санатория"
                 className="w-full h-80 object-cover rounded-lg shadow-lg"
               />
