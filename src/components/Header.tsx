@@ -15,37 +15,25 @@ const Header = () => {
 
           <nav className="hidden md:flex items-center space-x-8">
             <a
-              href="/"
-              className="text-gray-700 hover:text-emerald-600 transition-colors"
-            >
-              Главная
-            </a>
-            <a
-              href="/about"
-              className="text-gray-700 hover:text-emerald-600 transition-colors"
-            >
-              О нас
-            </a>
-            <a
-              href="/services"
+              href="#services"
               className="text-gray-700 hover:text-emerald-600 transition-colors"
             >
               Услуги
             </a>
             <a
-              href="/rooms"
+              href="#about"
               className="text-gray-700 hover:text-emerald-600 transition-colors"
             >
-              Номера
+              О нас
             </a>
             <a
-              href="/gallery"
+              href="#testimonials"
               className="text-gray-700 hover:text-emerald-600 transition-colors"
             >
-              Галерея
+              Отзывы
             </a>
             <a
-              href="/contact"
+              href="#contact"
               className="text-gray-700 hover:text-emerald-600 transition-colors"
             >
               Контакты
